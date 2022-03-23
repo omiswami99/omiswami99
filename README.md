@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **omiswami99/omiswami99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +14,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi there 👋, I'm Onkar Swami (IT Engineer 2nd Year)
+## Studing at PICT, Pune.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omiswami99&label=Profile%20views&color=640fd4&style=flat" alt="omiswami99" /></p>
 
 <hr />
 
+- 🌱 I’m currently learning: **Blockchain Technology**
+- 👯 My coding partner: [sumitkawale](https://github.com/sumitkawale)
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-## Contact me on
+<hr />
+
+
+## How to reach me 
 
 <p align="center">
     <a href="https://instagram.com/omiswami99" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omiswami99" height="40" width="40" /></a>
@@ -30,7 +40,7 @@ Here are some ideas to get you started:
 </p>
 <br>
  
-## Language and Tools I learned
+## Techknowlogies I learned
 
 ### Programming Language
 
@@ -80,7 +90,6 @@ Here are some ideas to get you started:
 ### Other
 
 <p align="center">
-    <a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="60" height="60"/></a>
     <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="60" height="60"/></a>
     <a href="https://github.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="60" height="60"/></a>
 </p>
