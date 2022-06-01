@@ -4,7 +4,7 @@ Hi 👋 My name is Onkar Swami
 Web Developer
 -------------
 
-BRO IS PRO
+Student at Pune Institute of Computer Technology
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [onkarswami2002@gmail.com](mailto:onkarswami2002@gmail.com)
