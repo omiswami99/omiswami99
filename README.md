@@ -8,7 +8,7 @@ Student at Pune Institute of Computer Technology
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [onkarswami2002@gmail.com](mailto:onkarswami2002@gmail.com)
-* 🧠  I'm learning REACT, BLOCKCHAIN
+* 🧠  I'm learning REACT, SOLIDITY
 * 🤝  I'm open to collaborating on Inspiring projects.
 * ⚡  Morons don't like coding
 
