@@ -5,8 +5,8 @@ My name is Onkar Swami
 Web Developer
 -------------
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
-
+<img align="right" alt="Coding" width="400" height="300" src="https://www.appsflyer.com/wp-content/uploads/2021/04/img-cta-ziv.svg">
+<br>
 Student at Pune Institute of Computer Technology
 
 * 🌍  I'm based in India
@@ -14,11 +14,12 @@ Student at Pune Institute of Computer Technology
 * 🧠  I'm learning REACT, SOLIDITY
 * 🤝  I'm open to collaborating on Inspiring projects.
 * ⚡  Morons don't like coding, code everyday
-
+<br>
+<br>
 <a href="https://www.twitter.com/omiswami99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/omiswami99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/omiswami99" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/omiswami99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/omiswami99?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><br><br>
 ### Skills
 
 <p align="left">
