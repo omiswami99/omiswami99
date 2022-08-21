@@ -11,7 +11,7 @@ Student at Pune Institute of Computer Technology
 * ✉️  You can contact me at [onkarswami2002@gmail.com](mailto:onkarswami2002@gmail.com)
 * 🧠  I'm learning REACT, SOLIDITY
 * 🤝  I'm open to collaborating on Inspiring projects.
-* ⚡  Morons don't like coding
+* ⚡  Morons don't like coding, code everyday
 
 <a href="https://www.twitter.com/omiswami99" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/omiswami99?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
