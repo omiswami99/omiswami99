@@ -5,6 +5,8 @@ My name is Onkar Swami
 Web Developer
 -------------
 
+<img align="right" alt="Coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif">
+
 Student at Pune Institute of Computer Technology
 
 * 🌍  I'm based in India
