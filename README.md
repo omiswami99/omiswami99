@@ -1,5 +1,5 @@
 Hi 👋 
-My name is Onkar Swami
+My name is Onkar Swami.
 ==========================
 
 Web Developer
