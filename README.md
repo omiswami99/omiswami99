@@ -5,7 +5,7 @@ I am Onkar Swami.
 Web Developer
 -------------
 
-<!-- <img align="right" alt="Coding" width="400" height="300" src="https://www.appsflyer.com/wp-content/uploads/2021/04/img-cta-ziv.svg"> -->
+<img align="right" alt="Coding" width="400" height="300" src="https://www.appsflyer.com/wp-content/uploads/2021/04/img-cta-ziv.svg">
 <br>
 Student at Pune Institute of Computer Technology
 
