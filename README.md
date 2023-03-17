@@ -13,7 +13,7 @@ Student at Pune Institute of Computer Technology
 * ✉️  You can contact me at [onkarswami2002@gmail.com](mailto:onkarswami2002@gmail.com)
 * 🧠  I'm learning REACT, SOLIDITY
 * 🤝  I'm open to collaborating on Inspiring projects.
-* 
+
 <br><br>
 <br>
 <a href="https://www.github.com/omiswami99" target="_blank" rel="noreferrer"><img
